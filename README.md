@@ -10,6 +10,8 @@
 ### Nasıl Kullanılır? - How To Use?
 >python3 UNSTABLE.py
 
+Video: https://www.youtube.com/watch?v=2hib9WjpJo8
+
 
 Bu araç sadece eğitim amaçlı kodlanmış olup, doğabilecek zararlardan tamamen kullanıcı sorumludur.
 
