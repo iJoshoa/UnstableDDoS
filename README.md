@@ -7,7 +7,7 @@
 
 ------------
 
-### Nasıl Kullanılır?
+### Nasıl Kullanılır? - How To Use?
 >python3 UNSTABLE.py
 
 
